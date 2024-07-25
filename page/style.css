@@ -58,8 +58,11 @@ main {
     border-radius: 10px;
     padding: 10px 15px;
     align-items: center;
+    min-width: 400px;
+}
 
-    min-width: 35vw;
+.items {
+    min-width: 400px;
 }
 
 .adicionar > input{
